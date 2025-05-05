@@ -1,0 +1,7 @@
+# Ignore Elasticsearch and Logstash data
+data/
+logs/
+
+# Ignore environment files if any
+.env
+*.log
